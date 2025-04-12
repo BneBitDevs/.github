@@ -10,7 +10,7 @@ No topic is too technical or nuanced to be discussed, but most people will be ab
 We do expect some topics to generate discussion. Opinionated, thoughtful and respectful reasoning is encouraged. Unfortunately, we do not have time to entertain topics related to other blockchains.
 
 ## Agenda:
-Submit agenda items under the issue for the current month here, https://github.com/TestOrgBaz21m/Meetup/issues
+Submit agenda items under the issue for the current month here, [https://github.com/BneBitDevs/Meetup/issues.](https://github.com/BneBitDevs/Meetup/issues) 
 
 ## Venue:
 Bardon Bowls Club. 69 Bowman Pde, Bardon, QLD 4065
